@@ -10,8 +10,9 @@ I'm a **future Web Developer** passionate about building real solutions that mak
 - Full-stack projects using **Next.js**, **AWS**, and **serverless architectures**.  
 
 🤝 **I’m looking for help with**  
-- Optimizing **AWS microservices** and improving **AI-driven features** using **Bedrock** and **OpenAI**.  
-🌱 **I’m currently learning**  
+- Optimizing **AWS microservices** and improving **AI-driven features** using **Bedrock** and **OpenAI**.
+
+🌱 **I’m currently learning**   
 - Microservice architecture with **AWS Lambda** and **CDK**  
 - Advanced **TypeScript** for scalable systems  
 - Serverless **security and performance** best practices  
